@@ -1,0 +1,232 @@
+/* Frame base (style_0) */
+.frame-root {
+  width: 430px;
+  height: 932px;
+  border-radius: var(--radius-35);
+  background: var(--color-ffffff);
+  position: relative;
+}
+
+/* Title "Foodgo" (typo_5, style_1 color) */
+#node-1-50 {
+  left: 19px;  /* -991 - (-1010) */
+  top: 28px;   /* -978 - (-1006) */
+  width: 129px;
+  height: 61px;
+}
+
+/* Subtitle "Order your favourite food!" (typo_6) */
+#node-1-51 {
+  left: 19px;
+  top: 89px;
+  width: 238px;
+  height: 27px;
+}
+
+/* Mask group container area (not visible itself) */
+#node-1-52 { left: 351px; top: 28px; width: 60px; height: 60px; }
+
+/* Rectangle 57 (style_3: gray bg, 20px radius) */
+#node-1-53 {
+  left: 351px; top: 28px; width: 60px; height: 60px;
+  background: var(--color-d9d9d9);
+  border-radius: var(--radius-20);
+}
+
+/* image 8 positioned partially overlapping (use imagePath) */
+#node-1-54 {
+  left: 322px; top: 25px; width: 106px; height: 73px;
+  background: transparent url("../../assets/figmaimages/figma_image_1_54.png") center/cover no-repeat;
+}
+
+/* Group 3 */
+#node-1-55 { left: 19px; top: 163px; width: 392px; height: 60px; }
+
+/* Rectangle 66 (search field bg) style_15: white, 20 radius, shadow_0 */
+#node-1-56 {
+  left: 19px; top: 163px; width: 319px; height: 60px;
+  background: var(--color-ffffff);
+  border-radius: var(--radius-20);
+  box-shadow: var(--shadow-0);
+}
+
+/* Group 2 (red square with settings icon) */
+#node-1-57 { left: 351px; top: 163px; width: 60px; height: 60px; }
+#node-1-58 {
+  left: 351px; top: 163px; width: 60px; height: 60px;
+  background: var(--color-ef2a39);
+  border-radius: var(--radius-20);
+}
+#node-1-59 { left: 369px; top: 181px; width: 24px; height: 24px; }
+#node-1-59 .bar1 { position: absolute; left: 0; top: 0.626px; width: 24px; height: 6.999px; background: var(--color-ffffff); }
+#node-1-59 .bar2 { position: absolute; left: 0; top: 7.499px; width: 24px; height: 6.999px; background: var(--color-ffffff); }
+#node-1-59 .bar3 { position: absolute; left: 0; top: 15.374px; width: 24px; height: 6.999px; background: var(--color-ffffff); }
+
+/* Group 1 (search icon + text) */
+#node-1-60 { left: 39px; top: 181px; width: 104px; height: 24px; }
+#node-1-61 { left: 39px; top: 181px; width: 24px; height: 24px; }
+#node-1-61 .glyph { position: absolute; inset: 0; background: var(--color-3c2f2f); border-radius: 3px; opacity: 0.15; }
+#node-1-62 { left: 87px; top: 182px; width: 56px; height: 21px; }
+
+/* Frame 9 and 8: category pills area */
+#node-1-63 { left: -1px; top: 264px; width: 412px; height: 50px; }
+#node-1-64 { left: 19px; top: 264px; width: 467px; height: 50px; }
+
+/* Group 7: All (selected) */
+#node-1-65 { left: 19px; top: 264px; width: 75px; height: 50px; }
+#node-1-66 {
+  left: 19px; top: 264px; width: 75px; height: 50px;
+  background: var(--color-ef2a39);
+  border-radius: var(--radius-20);
+  box-shadow: var(--shadow-1);
+}
+#node-1-67 { left: 46px; top: 279px; width: 20px; height: 19px; }
+
+/* Group 6: Combos */
+#node-1-68 { left: 108px; top: 264px; width: 120px; height: 50px; }
+#node-1-69 {
+  left: 108px; top: 264px; width: 120px; height: 50px;
+  background: var(--color-f3f4f6);
+  border-radius: var(--radius-20);
+}
+#node-1-70 { left: 136px; top: 279px; width: 64px; height: 19px; }
+
+/* Group 5: Sliders */
+#node-1-71 { left: 242px; top: 264px; width: 120px; height: 50px; }
+#node-1-72 {
+  left: 242px; top: 264px; width: 120px; height: 50px;
+  background: var(--color-f3f4f6);
+  border-radius: var(--radius-20);
+}
+#node-1-73 { left: 275px; top: 280px; width: 53px; height: 19px; }
+
+/* Group 4: Classic */
+#node-1-74 { left: 376px; top: 264px; width: 110px; height: 50px; }
+#node-1-75 {
+  left: 376px; top: 264px; width: 110px; height: 50px;
+  background: var(--color-f3f4f6);
+  border-radius: var(--radius-20);
+}
+#node-1-76 { left: 403px; top: 279px; width: 56px; height: 19px; }
+
+/* Group 14 (cards grid container) */
+#node-1-77 { left: 19px; top: 355px; width: 392px; height: 481px; }
+
+/* Card A (Group 10) */
+#node-1-78 { left: 19px; top: 355px; width: 185px; height: 225px; }
+#node-1-79 {
+  left: 19px; top: 355px; width: 185px; height: 225px;
+  background: var(--color-ffffff);
+  border-radius: var(--radius-20);
+  box-shadow: var(--shadow-2);
+}
+#node-1-83 {
+  left: 51px; top: 360px; width: 120px; height: 121.758px;
+  background: transparent url("../../assets/figmaimages/figma_image_1_83.png") center/cover no-repeat;
+}
+#node-1-82 {
+  left: 66px; top: 464px; width: 91px; height: 11px;
+  background: var(--color-000000);
+  border-radius: 999px;
+  opacity: 0.12;
+}
+#node-1-81 { left: 30px; top: 486px; width: 117px; height: 44px; white-space: pre-wrap; }
+#node-1-84 { left: 30px; top: 520px; width: 44px; height: 22px; }
+#node-1-85 { left: 30px; top: 523px; width: 16px; height: 16px; background: var(--color-ff9633); border-radius: 3px; }
+#node-1-86 { left: 51px; top: 520px; width: 23px; height: 22px; }
+#node-1-80 { left: 169px; top: 541px; width: 24px; height: 24px; background: var(--color-3c2f2f); border-radius: 4px; opacity: .05; }
+
+/* Card B (Group 11) */
+#node-1-87 { left: 226px; top: 355px; width: 185px; height: 225px; }
+#node-1-88 {
+  left: 226px; top: 355px; width: 185px; height: 225px;
+  background: var(--color-ffffff);
+  border-radius: var(--radius-20);
+  box-shadow: var(--shadow-2);
+}
+#node-1-92 {
+  left: 258px; top: 366px; width: 120px; height: 120px;
+  background: transparent url("../../assets/figmaimages/figma_image_1_92.png") center/cover no-repeat;
+}
+#node-1-91 {
+  left: 274px; top: 470px; width: 91px; height: 11px;
+  background: var(--color-000000);
+  border-radius: 999px;
+  opacity: 0.12;
+}
+#node-1-90 { left: 237px; top: 486px; width: 117px; height: 44px; white-space: pre-wrap; }
+#node-1-93 { left: 237px; top: 520px; width: 44px; height: 22px; }
+#node-1-94 { left: 237px; top: 523px; width: 16px; height: 16px; background: var(--color-ff9633); border-radius: 3px; }
+#node-1-95 { left: 258px; top: 520px; width: 23px; height: 22px; }
+#node-1-89 { left: 376px; top: 541px; width: 24px; height: 24px; background: var(--color-3c2f2f); border-radius: 4px; opacity: .05; }
+
+/* Card C (Group 12) */
+#node-1-96 { left: 19px; top: 611px; width: 185px; height: 225px; }
+#node-1-97 {
+  left: 19px; top: 611px; width: 185px; height: 225px;
+  background: var(--color-ffffff);
+  border-radius: var(--radius-20);
+  box-shadow: var(--shadow-2);
+}
+#node-1-101 {
+  left: 39px; top: 611px; width: 150px; height: 137.7px;
+  background: transparent url("../../assets/figmaimages/figma_image_1_101.png") center/cover no-repeat;
+}
+#node-1-100 {
+  left: 59px; top: 718.239px; width: 110px; height: 15.761px;
+  background: var(--color-000000); border-radius: 999px; opacity: 0.12;
+}
+#node-1-99 { left: 30px; top: 747px; width: 117px; height: 44px; white-space: pre-wrap; }
+#node-1-102 { left: 30px; top: 800px; width: 44px; height: 22px; }
+#node-1-103 { left: 30px; top: 803px; width: 16px; height: 16px; background: var(--color-ff9633); border-radius: 3px; }
+#node-1-104 { left: 51px; top: 800px; width: 23px; height: 22px; }
+#node-1-98 { left: 169px; top: 827px; width: 24px; height: 24px; background: var(--color-3c2f2f); border-radius: 4px; opacity: .05; }
+
+/* Card D (Group 13) */
+#node-1-105 { left: 226px; top: 611px; width: 185px; height: 225px; }
+#node-1-106 {
+  left: 226px; top: 611px; width: 185px; height: 225px;
+  background: var(--color-ffffff);
+  border-radius: var(--radius-20);
+  box-shadow: var(--shadow-2);
+}
+#node-1-110 {
+  left: 256px; top: 636px; width: 145px; height: 100.594px;
+  background: transparent url("../../assets/figmaimages/figma_image_1_110.png") center/cover no-repeat;
+}
+#node-1-109 {
+  left: 286.5px; top: 720.992px; width: 112px; height: 11px;
+  background: var(--color-000000); border-radius: 999px; opacity: 0.12;
+}
+#node-1-108 { left: 237px; top: 747px; width: 158px; height: 44px; white-space: pre-wrap; }
+#node-1-111 { left: 237px; top: 800px; width: 44px; height: 22px; }
+#node-1-112 { left: 237px; top: 803px; width: 16px; height: 16px; background: var(--color-ff9633); border-radius: 3px; }
+#node-1-113 { left: 258px; top: 800px; width: 23px; height: 22px; }
+#node-1-114 { left: 376px; top: 637.5px; width: 26.679px; height: 27px; background: var(--color-ffffff); border-radius: 50%; opacity: 0.1; }
+
+/* Bottom bar group (Group 16) */
+#node-1-115 { left: -19px; top: 856px; width: 456px; height: 90px; }
+#node-1-116 { left: -19px; top: 856px; width: 456px; height: 90px; background: var(--color-ef2a39); }
+#node-1-117 { left: -19px; top: 856px; width: 456px; height: 90px; background: var(--color-ef2a39); }
+#node-1-118 { left: 174px; top: 815px; width: 82px; height: 82px; background: var(--color-d9d9d9); border-radius: 50%; box-shadow: var(--shadow-3); }
+
+#node-1-119 { left: 103px; top: 856px; width: 224px; height: 82px; }
+#node-1-120 { left: 103px; top: 856px; width: 82px; height: 82px; background: var(--color-ef2a39); border-radius: 50%; }
+#node-1-121 { left: 245px; top: 856px; width: 82px; height: 82px; background: var(--color-ef2a39); border-radius: 50%; }
+
+/* Bottom bar icons */
+#node-1-123 { left: 31px; top: 873px; width: 24px; height: 24px; background: var(--color-ffffff); border-radius: 4px; opacity: .15; }
+#node-1-124 { left: 113px; top: 873px; width: 24px; height: 24px; background: var(--color-ffffff); border-radius: 4px; opacity: .15; }
+#node-1-122 { left: 376px; top: 873px; width: 24px; height: 24px; background: var(--color-ffffff); border-radius: 4px; opacity: .15; }
+#node-1-125 { left: 294px; top: 873px; width: 24px; height: 24px; background: var(--color-ffffff); border-radius: 4px; opacity: .15; }
+
+/* Decorative small dot Ellipse 6 */
+#node-1-126 { left: 41px; top: 905px; width: 4px; height: 4px; background: var(--color-ffffff); border-radius: 50%; opacity: 0.6; }
+
+/* Add text rendering specifics */
+#node-1-50, #node-1-51, #node-1-62, #node-1-67, #node-1-70, #node-1-73, #node-1-76,
+#node-1-81, #node-1-90, #node-1-99, #node-1-108, #node-1-86, #node-1-95, #node-1-104, #node-1-113 {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
